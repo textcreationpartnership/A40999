@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fear God, honour the King: or, Great Brittains allegeance to their royall Soveraign in a loyal remonstrance to Cherles the II. for the establishing of him in his royal thorne, and the restoring of him to crown and scepter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40999</idno>
+            <idno type="STC">Wing F574</idno>
+            <idno type="STC">ESTC R215602</idno>
+            <idno type="EEBO-CITATION">99827428</idno>
+            <idno type="PROQUEST">99827428</idno>
+            <idno type="VID">31846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31846)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1864:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fear God, honour the King: or, Great Brittains allegeance to their royall Soveraign in a loyal remonstrance to Cherles the II. for the establishing of him in his royal thorne, and the restoring of him to crown and scepter.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Obediah Brook, and are to be sold near the Castle in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1660-1685 : Charles II) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31846:1"/>
+            <pb facs="tcp:31846:1" rendition="simple:additions"/>
+            <p>Fear <hi>God,</hi> Honour the <hi>King</hi>: OR, Great Brittains Allegeance to their Royall Soveraign: In a Loyal Remonſtrance to CHARLES the II. for the Eſtabli<g ref="char:EOLhyphen"/>ſhing of Him <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n His Royal Throne, and the reſtoring of Him to Crown and Scepter.</p>
+            <q>
+               <bibl>Prov. 24.21.</bibl> 
+               <p>Fear thou the Lord, and the King, and med<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> not with them that are given to change.</p>
+            </q>
+            <q>
+               <bibl>Eccleſ. 8.2.</bibl> 
+               <p>I counſel thee to keep the Kings Commandements.</p>
+            </q>
+            <q>
+               <bibl>Eccleſ. 10.20.</bibl> 
+               <p>Curſe not the King, no, not in thy thoughts.</p>
+            </q>
+            <q>
+               <bibl>Prov. 8.15.</bibl> 
+               <p>By me <hi>Kings</hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </q>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Obediah Brook,</hi> and are to be ſold near the Caſtle in <hi>Cornhil.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31846:2"/>
+            <pb n="1" facs="tcp:31846:2"/>
+            <head>FEAR GOD, Honour the KING.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S Magiſtrates are Rulers over the per<g ref="char:EOLhyphen"/>ſons of the People, ſo are they but ſervants to the good of the People; As it is the duty of all to ſerve them, ſo it is their Office to ſerve all. 'Tis no Paradox to affirm, <hi>That</hi> Rulers <hi>are the greateſt Servants.</hi> The Ancients were wont to place their ſtatues of their Princes by their Fountains, intimating that they were, or at leaſt ſhould be, Fountains of the publick good: The Counſellor ſaith, <hi>That a man in publick place ſhould give his will to God, his love to his Maſter, his heart to his Countrey, his ſecrets to his Friends, and his time to buſineſs.</hi> It is a baſe and unworthy ſpirit for a man to make himſelf the Cen<g ref="char:EOLhyphen"/>tre of all his actions. The very <hi>Heathen-man</hi> could ſay, <hi>A mans Countrey, and his friends and others, challenge a great part of him.</hi> The <hi>Sun</hi> that is the Prince of Lights, doth impartially ſerve all the Peaſants as well as the
+<pb n="2" facs="tcp:31846:3"/>Prince, the poor as well as the rich, the weak as well as the ſtrong. Doth not the <hi>Sea</hi> feed and refreſh the ſmal<g ref="char:EOLhyphen"/>leſt Fiſh, as well as the greateſt <hi>Leviathan?</hi> Doth not the Trees ſhade and ſhelter from heat the leaſt Bird, as well as the greateſt Beaſt? Let all <hi>Loyal Subjects</hi> then in<g ref="char:EOLhyphen"/>deavour to be like the <hi>Sun:</hi> For behold, The Son of righteouſneſs was of a brave publick ſpirit; He healed o<g ref="char:EOLhyphen"/>thers, but was hurt himſelf; he laid out himſelf, and he laid down himſelf for a publick good. And ſhall not <hi>Christians;</hi> any <hi>Engliſh-men,</hi> return to their due and law<g ref="char:EOLhyphen"/>full obedience, and merit the praiſe and fame which of late years they have loſt, and all to ſave the Ship of poor <hi>England</hi> from ſinking; whoſe Pilot the raging violence of a tempeſtuous ſtorm hath caſt down head-long from the Stern, and cauſed her to ſtagger To and Fro a<g ref="char:EOLhyphen"/>mongſt the unquiet Waves of the rough Ocean, ſome<g ref="char:EOLhyphen"/>times claſhing againſt the proud ſurley Rocks, and at other times reeling up and down the ſmoother Waters; now threatning preſent <hi>ſhipwrack</hi> and <hi>deſtruction,</hi> by and by promiſing a <hi>ſeeming ſafety</hi> and <hi>ſecure arrival,</hi> yet ne<g ref="char:EOLhyphen"/>ver ſetled faſt, nor abſolutely tending to the quiet and <hi>deſired Haven:</hi> So the vexed and various Government of <hi>bleeding and frantick</hi> England, ever ſince the furious madneſs of certain turbulent ſpirits, (divided her Head from the Body politick, and ſtern of Government, and took it into their Unlawfull and <hi>
+                  <g ref="char:V">Ʋ</g>ſurping Hands</hi>) it hath been toſſed up and down through ſeveral <hi>Devouring In<g ref="char:EOLhyphen"/>tereſts,</hi> as a <hi>Lamb</hi> amongſt <hi>Wolves;</hi> yet in all our Revo<g ref="char:EOLhyphen"/>lutions, although many Gaps have been laid open, the Government hath not ſteered its Courſe directly to <hi>Charls the ſecond, its onely right and quiet Haven,</hi> till now; bleſſed be the inſtruments thereof.</p>
+            <p>And as for this Riſing Sun, though hitherto obſcured
+<pb n="3" facs="tcp:31846:3"/>by the <hi>foggy miſts of diſobedient Subjects;</hi> yet do the <hi>rayes</hi> of His Sacred Majeſty ſhine throughout all <hi>Europe,</hi> and His Renown ecchoeth in every part of the World, to the admiration of forreign Kingdomes, and the envy and hatred of all Diſloyal Subjects: yet cannot <hi>their malice</hi> but marvel at the <hi>vertues</hi> and <hi>patience</hi> of their <hi>too long exi<g ref="char:EOLhyphen"/>led KING,</hi> whom they ſo much wrong; and it grieves them to ſee that <hi>royal Progeny</hi> (whoſe ruine <hi>they</hi> have ſo greedily hunted after) flouriſh with ſuch glorious ſplen<g ref="char:EOLhyphen"/>dor amongſt <hi>the Kings and Princes of the earth,</hi> growing in favour with God and Man, whileſt they (odious to all but themſelves) by their Tyranny and Diſobedience, incur the diſpleaſure both of Heaven and Earth. And certainly, had they not been infatuated with ſtrange de<g ref="char:EOLhyphen"/>luſions to deny what their own <hi>Conſciences</hi> telleth them tobe true, they wou d preſently declare, that the onely way to ſettle our <hi>Diſtractions,</hi> and reſtore our Nation to its Priſtine happineſs and glory, were to call in the King, re-eſtabliſh <hi>Him</hi> in His Own, and <hi>ſet Him upon His Fathers Throne</hi> and with the beſt of men cry out, and ſay, <hi>Fear God, Honour the King.</hi> Which that we may all doe, the Lord grant, that the cries of the People may aſcend up unto the King of Glory, for the reſtoring <hi>Our Gracious</hi> King Charles <hi>the ſecond to His Hereditary Crown,</hi> whoſe Youth His Divine Majeſty hath been pleaſed to ſeaſon with the Afflictions of King <hi>David,</hi> and Clouded the morning of His and Our happineſs with the <hi>various chan<g ref="char:EOLhyphen"/>ges</hi> of ſome mens wicked Luſts and Paſſions; who as that holy Prophet and King ſaith; <hi>They rejoyce when they have ruined others; they laugh to ſee them lament. Belſhaz<g ref="char:EOLhyphen"/>zers</hi> ſumptuous feaſt was heightned by the Hogs of his delicious meats and drinks, as they were ſerved in the Veſſels of the Sanctuary: No Bowls, to ſuch <hi>Atheiſts,</hi>
+               <pb n="4" facs="tcp:31846:4"/>like a conſecrated Challice to carouſe in; and no Fleſh ſo ſweet, as that which the Eagle rob'd the Altar of: Money gotten by ſtinking means <hi>(as the</hi> Roman <hi>Emperer told his Son)</hi> ſmells as ſweet as honeſt gain. What care ſuch fools though they rend and tear the Churches Garments, ſo theirs may be whole? Or to build up their <hi>Babels</hi> with the ruines of <hi>Sion;</hi> ſo that we may juſtly cry out with a learned Father; <hi>And when they have robbed the <hi>King</hi> and the <hi>Church</hi> of their Patrimony, and the whole <hi>King<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> her ancient plenty, then a ſelf-denying Ordina<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> there is no more left to be taken away) not on<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y makes ſa<g ref="char:EOLhyphen"/>tisfaction for the Sacriledge, but juſtifi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s it to be no ſin.</hi> So that it is evident, that our late <hi>changes</hi> have introduced into this Nation many woes and miſeries; and they that took moſt delight in urging of theſe <hi>changes</hi> cannot yet give any ſatisfaction to themſelves for the preſent, and much leſs can they aſſure themſelves of any ſound Go<g ref="char:EOLhyphen"/>vernment for the future in the way they took; For, as it is truly obſerved, <hi>all changes in Government,</hi> common<g ref="char:EOLhyphen"/>ly do cheat them moſt at laſt, who at firſt did moſt de<g ref="char:EOLhyphen"/>ſire them. Indeed, it is hard for a good <hi>Hiſtorian</hi> to ſay on the ſudden, how many ſeveral kinds of Government were introduced among the <hi>Romans,</hi> by this inſatiable deſire of <hi>change:</hi> It is notorious, that they had Kings, Senators, Dictators, Tribunes, Conſuls, <hi>&amp;c.</hi> of ſome of which that jeer was ſtarted, <hi>vigilantiſſimum habuimus procanſulem &amp;c.</hi> We have now had a meſt <hi>vigilant Pro-Conſul,</hi> for during the whole time of his Conſulſhip, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e never ſlept, meaning, that he was elected at <hi>Noon</hi> and diſcarded before <hi>Night.</hi> And by name, <hi>Galba, Otho,</hi> and <hi>Vitellius,</hi> three of their no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Emperors, enjoyed their Dignity ſo ſhor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſpace, that <hi>Apollonius</hi> wittily ter<g ref="char:EOLhyphen"/>med them Lords of <hi>Greece</hi> but a ſhort time, ſo theſe three
+<pb n="5" facs="tcp:31846:4"/>continued but Emperors of <hi>Rome</hi> for a few moneths: ſo in-conſtant was the Humour of the Giddy-headed <hi>Romans</hi> in thoſe dayes, that whom they had but newly ſet up, without any other reaſon then a meer affection of novelty, and deſire of Change; they ſoon after pul<g ref="char:EOLhyphen"/>led down. And no marvel, though the Luxurant <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> that then knew little of God, were ſo deſirous of Change, when as we find Gods own People, the <hi>Jews,</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> troubled with a ſpice, but deſperately ſick of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Diſeaſe; for they had their Dukes, or Leaders, their Judges, their Prophets, their High-Prieſts, their Kings; and for a time they had an <hi>Inter-regnum,</hi> and no King in <hi>Iſrael,</hi> beſides divers other horrid <hi>Jaw-falls</hi> in Government. And if we draw near home, we cannot but take notice how <hi>praedominant,</hi> in all Ages, this deſire of Change hath been in all parts of <hi>Chriſten<g ref="char:EOLhyphen"/>dome.</hi> What <hi>chopping</hi> and <hi>changing</hi> in ſeveral parts, eſpe<g ref="char:EOLhyphen"/>cially in the Kingdom of <hi>Naples,</hi> where they ſo often changed their Governours, that at laſt their eſtate was repreſented in an <hi>Aſſe,</hi> that having caſt his Rider, turn<g ref="char:EOLhyphen"/>ed back, to ſee who would be ſo mad as to beſtride him any more. And may it not be ſaid of ſuch who fight a<g ref="char:EOLhyphen"/>gainſt <hi>God</hi> and his <hi>Annointed,</hi> inſtead of diſingaging do the more intangle themſelves; And like ſo many unru<g ref="char:EOLhyphen"/>ly Colts, get nothing by their diſorderly deſire of Change, but onely to have the Brand of Gods indignati<g ref="char:EOLhyphen"/>on faſtned ſo much the deeper in their fleſh.</p>
+            <p>Thus they that willingly and wilfuly reſiſt Gods Or<g ref="char:EOLhyphen"/>dinances (as the Fanaticks of theſe Times do) turn that which they relyed upon as their likelieſt Remedy, to the worſt of miſchiefs that could have befallen them. So it is pregnant in Hiſtory, that very few Nations (out of the meer deſire of Change) will long endure any Govern<g ref="char:EOLhyphen"/>ment,
+<pb n="6" facs="tcp:31846:5"/>no, nor ſcarce any Governour; how then ſhall it ſatisſie the too Arch-Enemies of Rule and Govern<g ref="char:EOLhyphen"/>ment, the Fanaticks and non-ſenſicall Quakers, who would (if they had power to their will) ſoon lay the Axe to the root of all Magiſtracy and Miniſtery what<g ref="char:EOLhyphen"/>ſoever. Intollerable miſchiefs are ingendered by con<g ref="char:EOLhyphen"/>fuſion, and the inordinate deſire of Change amongſt thoſe Phanatques, who are ſo greedy of Parity, and ſo fond of Anarchy, may be termed to be like the fruit we call <hi>Medlers,</hi> which are never good till they be <hi>rotten.</hi> Men that are fancifully and fanatick, we need them not to make us happy: I am ſure they made a ſhift to make Us miſerable. And if God had not in mercy ſet bounds to the rage of that Sea, and the madneſs of that People they would have endangered to have made the City an heap of Aſhes, and our Country a field of blood: It will be the wiſdome therefore of our Rulers and their po<g ref="char:EOLhyphen"/>ſterities Honour and Hapineſs, to keep in the bounds of juſt, moderate, religious and ſober Counſels, to aim at <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egal, honeſt, and tried wayes of ſettlement, that by their indeavours the People may flouriſh, and Salvation break forth throughout the three Nations.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
